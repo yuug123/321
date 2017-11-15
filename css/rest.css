@@ -1,0 +1,31 @@
+@charset="utf-8";
+
+body,
+h1,
+h3,
+dl,
+dd,
+ul,
+p {margin: 0;}
+
+ul {
+	padding: 0;
+	list-style: none;
+}
+
+body {
+	font-family: "Myriad Set Pro","Helvetica Neue","Helvetica","PingFang SC","Arial","Microsoft YaHei",sans-serif;
+	font-size: 14px;
+}
+
+a {
+	color: #266392;
+	text-decoration: none;
+}
+
+a:hover {text-decoration: underline;}
+
+.container {
+	width: 910px;
+	margin: 0 auto;
+}
